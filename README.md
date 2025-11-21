@@ -1,16 +1,16 @@
-## Hi there 👋
+## VaultDev
 
-<!--
-**Anonimus099/Anonimus099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A bit about me
+Hey! I'm bashbunni, welcome to my GitHub page. I love open source and am always striving to improve my coding skills. 
 
-Here are some ideas to get you started:
+What I'm hacking on
+I'm keeping my personal projects private at the moment since my progress on them is slow going. I'll definitely share them when I have MVPs ready, for now they're just for my own learning and enjoyment :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Nerd Corner
+keyboard: Alligator GK-315 TNT-BROWN
+
+Editor
+Vs Code, Cursor, LazyVim
+
+The vibe
+relax, write some code, be a tea drinking canadian nerd, and enjoy life 🍵

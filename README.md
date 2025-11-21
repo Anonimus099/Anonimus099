@@ -1,7 +1,7 @@
 ## VaultDev ☢️
 
 A bit about me
-Hey! I'm bashbunni, welcome to my GitHub page.
+Hey! I'm VaultDev, welcome to my GitHub page.
 I love open source and am always striving to improve my coding skills. 
 
 What I'm hacking on

@@ -13,4 +13,4 @@ I'm keeping my personal projects private at the moment since my progress on them
 ### The vibe
 relax, write some code, be a tea drinking canadian nerd, and enjoy life 💻☕🎧
 
-![VaultBoy](https://tenor.com/ru/view/vault-boy-fallout-thu-thumbs-up-pouce-en-l'air-gif-12872992734180696380)
+!(https://tenor.com/ru/view/vault-boy-fallout-thu-thumbs-up-pouce-en-l'air-gif-12872992734180696380)

@@ -1,4 +1,4 @@
-### TheArchitect ☢️
+### TheArchitect
 
 ### A bit about me
 Hey! I'm TheArchitect, welcome to my GitHub page. I love open source and am always striving to improve my coding skills. I share that enthusiasm with everyone through my social media and hopefully act as a resource for anyone starting the journey.

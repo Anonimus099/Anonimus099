@@ -10,6 +10,12 @@ I'm keeping my personal projects private at the moment since my progress on them
 * Keyboards: Alligator GK-315 (main keyboard)
 * Editor: Vs code, Cursor, LazyVim
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,react,ts,vscode,linux" />
+  </a>
+</p>
+
 ### The vibe
 relax, write some code, be a tea drinking canadian nerd, and enjoy life 💻☕🎧
 

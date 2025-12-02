@@ -1,4 +1,4 @@
-### TheArchitect 📐
+### TheArchitect 
 
 ### A bit about me
 Hey! I'm TheArchitect, welcome to my GitHub page. I love open source and am always striving to improve my coding skills. I share that enthusiasm with everyone through my social media and hopefully act as a resource for anyone starting the journey.
@@ -11,6 +11,6 @@ I'm keeping my personal projects private at the moment since my progress on them
 * Editor: Vs code, Cursor, LazyVim
 
 ### The vibe
-relax, write some code, be a tea drinking canadian nerd, and enjoy life 💻☕🎧
+relax, write some code, be a tea drinking canadian nerd, and enjoy life 💻🍵🎧
 
 ![dancing-gopher](https://github.com/user-attachments/assets/b192131d-724c-4624-9488-d88ecfafd018)

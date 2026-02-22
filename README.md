@@ -14,4 +14,3 @@ I'm keeping my personal projects private at the moment since my progress on them
 relax, write some code, be a tea drinking canadian nerd, and enjoy life 💻🍵🎧
 
 ![dancing-gopher](https://github.com/user-attachments/assets/b192131d-724c-4624-9488-d88ecfafd018)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anonimus099&show_icons=true&theme=radical)](https://github.com/anurag-hazra/github-readme-stats)

@@ -15,10 +15,10 @@ relax, write some code, be a tea drinking canadian nerd, and enjoy life 💻🍵
 
 <table border="0" width="100%">
   <tr border="0">
-    <td align="left" border="0">
-      <img src="ССЫЛКА_НА_ТВОЕГО_ГОФЕРА" width="150" />
+    <td align="left" border="0" width="50%">
+      <img src="ССЫЛКА_ТУТ" width="150" alt="Gopher" />
     </td>
-    <td align="right" valign="bottom" border="0">
+    <td align="right" valign="bottom" border="0" width="50%">
       <a href="https://ko-fi.com/P5P51V52ZF">
         <img src="https://img.shields.io/badge/Support_the_Blueprint-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support TheArchitect" />
       </a>

@@ -19,6 +19,6 @@ relax, write some code, be a tea drinking canadian nerd, and enjoy life 💻🍵
 
 <p align="center">
   <a href="https://ko-fi.com/P5P51V52ZF">
-    <img           src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxODAiIGhlaWdodD0iNDQiIHZpZXdCb3g9IjAgMCAxODAgNDQiPgogIDxyZWN0IHdpZHRoPSIxODAiIGhlaWdodD0iNDQiIHJ4PSIxMCIgZmlsbD0iIzI5YWJlMiIvPgogIDx0ZXh0IHg9IjkwIiB5PSIyNyIgZm9udC1mYW1pbHk9Ii1hcHBsZS1zeXN0ZW0sIEJsaW5rTWFjU3lzdGVtRm9udCwgJ1NlZ29lIFVJJywgSGVsdmV0aWNhLCBBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxNSIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtd2VpZ2h0PSI2MDAiPlN1cHBvcnQgdGhlIEJsdWVwcmludDwvdGV4dD4KPC9zdmc+" alt="Support TheArchitect" />
+    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxODAiIGhlaWdodD0iNDQiIHZpZXdCb3g9IjAgMCAxODAgNDQiPgogIDxyZWN0IHdpZHRoPSIxODAiIGhlaWdodD0iNDQiIHJ4PSIxMCIgZmlsbD0iIzAwMDAwMCIvPgogIDx0ZXh0IHg9IjkwIiB5PSIyNyIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXNpemU9IjE1IiBmaWxsPSJ3aGl0ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC13ZWlnaHQ9IjYwMCI+U3VwcG9ydCB0aGUgQmx1ZXByaW50PC90ZXh0Pjwvc3ZnPg==" alt="Support TheArchitect" />
   </a>
 </p>

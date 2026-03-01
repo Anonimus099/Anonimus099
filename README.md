@@ -13,19 +13,14 @@ I'm keeping my personal projects private at the moment since my progress on them
 ### The vibe
 relax, write some code, be a tea drinking canadian nerd, and enjoy life 💻🍵🎧
 
-[![Support TheArchitect](https://img.shields.io/badge/Support_the_Blueprint-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/P5P51V52ZF)
-
-![dancing-gopher](https://github.com/user-attachments/assets/b192131d-724c-4624-9488-d88ecfafd018)
-
-
 <table border="0" width="100%">
-  <tr>
-    <td align="left">
-      <img src="ССЫЛКА_НА_ТВОЕГО_ГОФЕРА" width="200" />
+  <tr border="0">
+    <td align="left" border="0">
+      <img src="ССЫЛКА_НА_ТВОЕГО_ГОФЕРА" width="150" />
     </td>
-    <td align="right" valign="bottom">
+    <td align="right" valign="bottom" border="0">
       <a href="https://ko-fi.com/P5P51V52ZF">
-        <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support the Blueprint" />
+        <img src="https://img.shields.io/badge/Support_the_Blueprint-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support TheArchitect" />
       </a>
     </td>
   </tr>

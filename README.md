@@ -17,3 +17,16 @@ relax, write some code, be a tea drinking canadian nerd, and enjoy life 💻🍵
 
 ![dancing-gopher](https://github.com/user-attachments/assets/b192131d-724c-4624-9488-d88ecfafd018)
 
+
+<table border="0" width="100%">
+  <tr>
+    <td align="left">
+      <img src="ССЫЛКА_НА_ТВОЕГО_ГОФЕРА" width="200" />
+    </td>
+    <td align="right" valign="bottom">
+      <a href="https://ko-fi.com/P5P51V52ZF">
+        <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support the Blueprint" />
+      </a>
+    </td>
+  </tr>
+</table>

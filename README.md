@@ -14,10 +14,13 @@ I'm keeping my personal projects private at the moment since my progress on them
 relax, write some code, be a tea drinking canadian nerd, and enjoy life 💻🍵🎧
 
 <div align="left">
-  <img src="https://github.com/user-attachments/assets/b192131d-724c-4624-9488-d88ecfafd018" width="150" align="left" />
+  <img src="https://github.com/user-attachments/assets/b192131d-724c-4624-9488-d88ecfafd018" width="180" align="left" />
+  
   <div align="right">
-    <br><br><br> <a href="https://ko-fi.com/P5P51V52ZF">
-      <img src="https://img.shields.io/badge/Support_the_Blueprint-007bff?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support TheArchitect" />
+    <br><br> <a href="https://ko-fi.com/P5P51V52ZF">
+      <img src="https://img.shields.io/badge/Support_the_Blueprint-007bff?style=for-the-badge&logo=ko-fi&logoColor=white" 
+           height="50" 
+           alt="Support TheArchitect" />
     </a>
   </div>
 </div>

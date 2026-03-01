@@ -14,7 +14,7 @@ I'm keeping my personal projects private at the moment since my progress on them
 relax, write some code, be a tea drinking canadian nerd, and enjoy life 💻🍵🎧
 
 <div align="left">
-  <img src="https://github.com/user-attachments/assets/b192131d-724c-4624-9488-d88ecfafd018" width="180" align="left" />
+<img src="https://ko-fi.com/img/githubbutton_sm.svg" height="50" alt="Support TheArchitect" style="background-color: #007bff; border-radius: 25px;" />
   
   <div align="right">
     <br><br> <a href="https://ko-fi.com/P5P51V52ZF">

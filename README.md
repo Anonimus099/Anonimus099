@@ -13,14 +13,14 @@ I'm keeping my personal projects private at the moment since my progress on them
 ### The vibe
 relax, write some code, be a tea drinking canadian nerd, and enjoy life 💻🍵🎧
 
-<table border="0" width="100%">
-  <tr>
-    <td align="left" valign="bottom">
+<table border="0" width="100%" style="border-collapse: collapse;">
+  <tr border="0">
+    <td align="left" valign="bottom" border="0">
       <img src="https://github.com/user-attachments/assets/b192131d-724c-4624-9488-d88ecfafd018" width="150" alt="dancing-gopher" />
     </td>
-    <td align="right" valign="bottom">
+    <td align="right" valign="bottom" border="0">
       <a href="https://ko-fi.com/P5P51V52ZF">
-        <img src="https://img.shields.io/badge/Support_the_Blueprint-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support TheArchitect" />
+        <img src="https://img.shields.io/badge/Support_the_Blueprint-007bff?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support TheArchitect" />
       </a>
     </td>
   </tr>

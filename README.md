@@ -17,3 +17,4 @@ relax, write some code, be a tea drinking canadian nerd, and enjoy life 💻🍵
 
 ![dancing-gopher](https://github.com/user-attachments/assets/b192131d-724c-4624-9488-d88ecfafd018)
 
+[![Support me on Ko-fi](https://img.shields.io/badge/Support%20me-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/P5P51V52ZF)
